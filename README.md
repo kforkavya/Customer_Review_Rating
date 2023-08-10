@@ -1,6 +1,6 @@
 # Customer_Review_Rating
 # Background
-Customer reviews play a pivotal role in shaping business reputations and influencing consumer decisions. Analyzing these reviews to extract meaningful insights and ratings can be a time-consuming task, especially when dealing with large datasets. The NN-LLM project aims to address this challenge by leveraging the efficiency of the DistilBERT model to provide fast and accurate customer review rating predictions.
+Customer reviews play a pivotal role in shaping business reputations and influencing consumer decisions. Analyzing these reviews to extract meaningful insights and ratings can be a time-consuming task, especially when dealing with large datasets. The NN-LLM project aims to address this challenge by leveraging the efficiency of the DistilBERT model to provide fast and accurate customer review rating predictions (out of 5 stars).
 
 # Why DistilBERT?
 DistilBERT, a distilled version of the BERT model, offers similar performance to BERT but with significantly fewer parameters. This reduction in model complexity results in faster inference times while maintaining competitive predictive accuracy. By choosing DistilBERT, we strike a balance between speed and performance, making it an ideal candidate for real-time applications like customer review rating analysis.
